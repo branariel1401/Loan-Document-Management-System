@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="creatSID.php" server="ec2-18-223-214-167.us-east-2.compute.amazonaws.com//var/www/html/" local="133728331269361731" remote="133728367280000000" Dst="1" />
+<file name="clearSID.php" server="ec2-18-223-214-167.us-east-2.compute.amazonaws.com//var/www/html/" local="133728332429759165" remote="133728368490000000" Dst="1" />
+<file name="createQuery.php" server="ec2-18-223-214-167.us-east-2.compute.amazonaws.com//var/www/html/" local="133734419493317961" remote="133734455560000000" Dst="1" />
+<file name="createQueryRequest.php" server="ec2-18-223-214-167.us-east-2.compute.amazonaws.com//var/www/html/" local="133738574454329677" remote="133741380650000000" Dst="1" />
+<file name="functions.php" server="ec2-18-223-214-167.us-east-2.compute.amazonaws.com//var/www/html/" local="133754935011154763" remote="133754935420000000" Dst="1" />
+<file name="createQueryRequestStoreDB.php" server="ec2-18-223-214-167.us-east-2.compute.amazonaws.com//var/www/html/" local="133762688205671991" remote="133762688430000000" Dst="1" />
+<file name="dbcon.php" server="ec2-18-223-214-167.us-east-2.compute.amazonaws.com//var/www/html/" local="133752493727605597" remote="133752493770000000" Dst="1" />
+<file name="createQueryRequestCRON.php" server="ec2-18-223-214-167.us-east-2.compute.amazonaws.com//var/www/html/" local="133753213763942649" remote="133754403500000000" Dst="1" />
+<file name="parseErrorLog.php" server="ec2-18-223-214-167.us-east-2.compute.amazonaws.com//var/www/html/" local="133754972091410401" remote="133754972130000000" Dst="1" />
+<file name="auditDocuments - Copy.php" server="ec2-18-223-214-167.us-east-2.compute.amazonaws.com//var/www/html/" local="133762798514061418" remote="133762798520000000" Dst="1" />
+</dwsync>
